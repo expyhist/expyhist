@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Expyhist's GitHub stats](https://github-readme-stats.vercel.app/api?username=expyhist&show_icons=true&theme=flag-india)
+
+<a href="https://github.com/expyhist/DataHouse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=expyhist&repo=DataHouse" />
+</a>
+
 <!--
 **expyhist/expyhist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
